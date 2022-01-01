@@ -1,0 +1,10 @@
+state abb region  population  total
+Arizona AZ  West  6392017 232
+California  CA  West  37253956  1257
+Delaware  DE  South 897934  38
+Florida FL  South 19687653 669
+Georgia GA  South 9920000 376
+Illinois  IL  North 12830632  364
+Iowa  IA  North 3046355 21
+Kansas  KS  North 2853118 63
+Louisiana LA  South 4533372 351

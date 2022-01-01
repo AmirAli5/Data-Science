@@ -1,0 +1,2 @@
+state abb region population total
+Arizona$AZ$West$6392017$232
