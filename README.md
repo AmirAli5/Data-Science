@@ -6,7 +6,7 @@
 
 ## Semester 00 (Summer 2021)
 * Jupyter Notebook Markdown
-* Git anf Github
+* Git and Github
 * Programming
   * Python
   * R
